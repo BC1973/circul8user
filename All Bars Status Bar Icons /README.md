@@ -6,3 +6,5 @@ Icons changed are:
 * Activity spinner (battery-like bar bouncing back and forth)
 * (Coming) Rotation Lock
 * (Coming) Music/Video playing icon uses a simple play icon (as standard iOS)
+
+![Screenshot](Screenshot.jpg "Screenshot")
